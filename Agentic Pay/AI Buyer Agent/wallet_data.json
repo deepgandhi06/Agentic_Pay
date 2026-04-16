@@ -1,0 +1,19 @@
+{
+    "0x16361fc0c1294b7e24F9A7f68245Da160D72b01D": {
+        "wallet_age_days": 120,
+        "daily_txn_count": 1003,
+        "kyc_status": 0,
+        "device_new": 0,
+        "geo_mismatch": 1,
+        "unusual_time": 1,
+        "private_key": "27e2a68422a1e1e9aa293f36b3ab5aa6a54eeefe50d8fbb98f0a7cf69563b778"
+    },
+    "0x9eDaEa0B6d58529F720994A294a74094537730db": {
+        "wallet_age_days": 240,
+        "daily_txn_count": 1,
+        "kyc_status": 1,
+        "device_new": 0,
+        "geo_mismatch": 0,
+        "unusual_time": 0
+    }
+}
